@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 
 ### `Initial Release`
-# **Version 1.0**
+# **Version 1.0.0**
 
 
 <br>
